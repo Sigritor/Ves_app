@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomGauge">
+        <attr name="MaxValue" format="integer"/>
+        <attr name="MinValue" format="integer"/>
+        <attr name="Paso" format="integer"/>
+        <attr name="AnguloInicial" format="float"/>
+        <attr name="AnguloFinal" format="float"/>
+        <attr name="PasoAngular" format="float"/>
+    </declare-styleable>
+</resources>
